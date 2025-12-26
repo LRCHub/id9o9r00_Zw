@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Emily",
+  "base_artist": "カルナロッタ",
+  "createdAt": "2025-12-26T04:18:23.194095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "See Emily Play - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_See_Emily_Play_-_1999_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "See Emily Play",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_See_Emily_Play_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "A Rose For Emily",
+      "artist": "The Zombies",
+      "has_synced": true,
+      "path": "select/03_A_Rose_For_Emily_The_Zombies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Advisory Committee (Emily Kingan)",
+      "artist": "Mirah",
+      "has_synced": true,
+      "path": "select/04_Advisory_Committee_(Emily_Kingan)_Mirah.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dead City Emily",
+      "artist": "Marissa Nadler",
+      "has_synced": false,
+      "path": "select/05_Dead_City_Emily_Marissa_Nadler.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "For Emily, Whenever I May Find Her - Live",
+      "artist": "Simon & Garfunkel",
+      "has_synced": true,
+      "path": "select/06_For_Emily,_Whenever_I_May_Find_Her_-_Live_Simon_&_Garfunkel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Emily",
+      "artist": "Joanna Newsom",
+      "has_synced": true,
+      "path": "select/07_Emily_Joanna_Newsom.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Emily Kane",
+      "artist": "Art Brut",
+      "has_synced": true,
+      "path": "select/08_Emily_Kane_Art_Brut.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Emily",
+      "artist": "Elliphant",
+      "has_synced": false,
+      "path": "select/09_Emily_Elliphant.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Until You Were Gone (feat. Emily Warren)",
+      "artist": "The Chainsmokers feat. Tritonal & Emily Warren",
+      "has_synced": true,
+      "path": "select/10_Until_You_Were_Gone_(feat._Emily_Warren)_The_Chainsmokers_feat._Tritonal_&_Emily_Warren.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Emily",
+      "artist": "Fastball",
+      "has_synced": false,
+      "path": "select/11_Emily_Fastball.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Emily Dickinson",
+      "artist": "David Sylvian",
+      "has_synced": true,
+      "path": "select/12_Emily_Dickinson_David_Sylvian.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Emily",
+      "artist": "Jewel",
+      "has_synced": false,
+      "path": "select/13_Emily_Jewel.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Emily",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/14_Emily_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Emily Shore 1819-1839",
+      "artist": "The Handsome Family",
+      "has_synced": true,
+      "path": "select/15_Emily_Shore_1819-1839_The_Handsome_Family.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Emily",
+      "artist": "カルナロッタ",
+      "has_synced": false,
+      "path": "select/pl_01_Emily_カルナロッタ.txt"
+    }
+  ]
+}
